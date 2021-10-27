@@ -2,7 +2,7 @@
 
 # Welcome!
  
-## I'm Vanessa Perote!
+##
  
 :computer: I'm Front-End Developer!
 :house_with_garden: I’m from Brazil.
